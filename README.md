@@ -1,8 +1,10 @@
 # 1995-People-Face-Images-Data-Asian-race
-https://www.datatang.ai/datasets/142
+
 
 ## Description
 1,995 People Face Images Data (Asian race). For each subject, more than 20 images per person with frontal face were collected. This data can be used for face recognition and other tasks.
+
+For more details, please refer to the link: https://bit.ly/3EaeNDd
 
 ## Data size
 1,995 people, more than 20 images per person with frontal face
@@ -30,3 +32,6 @@ cellphone
 
 ## Accuracy
 the accuracy of labels of gender, age and wearing glasses or not is more than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
