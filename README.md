@@ -4,7 +4,8 @@
 ## Description
 1,995 People Face Images Data (Asian race). For each subject, more than 20 images per person with frontal face were collected. This data can be used for face recognition and other tasks.
 
-For more details, please refer to the link: https://bit.ly/3EaeNDd
+For more details, please refer to the link: https://www.nexdata.ai/datasets/142?source=Github
+
 
 ## Data size
 1,995 people, more than 20 images per person with frontal face
